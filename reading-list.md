@@ -8,7 +8,7 @@ comments: false
 
 I try to read a lot. This is an attempt to track that.
 
-Books I especially loved are marked with an asterisk.
+Books I especially loved are marked with an asterisk. Books that were re-reads are marked with a plus sign.
 
 ## Currently Reading
 
@@ -24,6 +24,17 @@ Books I especially loved are marked with an asterisk.
 
 - **[Designing Data-Intensive Applications](https://bookshop.org/books/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems/9781449373320)**, Martin Kleppmann
 
+### 2023
+
+1. **[My Promised Land: The Triumph and Tragedy of Israel](https://bookshop.org/a/22449/9780385521710)**, Ari Shavit
+1. **[Israel: A Simple Guide to the Most Misunderstood Country on Earth](https://bookshop.org/a/22449/9781982144937)**, Noa Tishby
+1. **[The Return of the King](https://bookshop.org/a/22449/9780547928197)**, J.R.R. Tolkien\+
+1. **[The Two Towers](https://bookshop.org/a/22449/9780547928203)**, J.R.R. Tolkien\+
+1. **[The Fellowship of the Ring](https://bookshop.org/a/22449/9780547928210)**, J.R.R. Tolkien\+
+1. **[The Hobbit](https://bookshop.org/a/22449/9780547928227)**, J.R.R. Tolkien\+
+1. **[The Office BFFs](https://bookshop.org/a/22449/9780063007598)**, Jenna Fischer, Angela Kinsey
+1. **[Soul Boom](https://bookshop.org/a/22449/9780306828270)**, Rainn Wilson
+1. **[The Bassoon King](https://bookshop.org/a/22449/9780451469434)**, Rainn Wilson
 
 ### 2022
 
