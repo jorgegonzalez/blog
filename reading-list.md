@@ -28,6 +28,7 @@ Books I especially loved are marked with an asterisk. Books that were re-reads a
 
 1. **[My Promised Land: The Triumph and Tragedy of Israel](https://bookshop.org/a/22449/9780385521710)**, Ari Shavit
 1. **[Israel: A Simple Guide to the Most Misunderstood Country on Earth](https://bookshop.org/a/22449/9781982144937)**, Noa Tishby
+1. **[Tomorrow, and Tomorrow, and Tomorrow](https://bookshop.org/a/22449/9780593321201)**, Gabrielle Zevin
 1. **[The Return of the King](https://bookshop.org/a/22449/9780547928197)**, J.R.R. Tolkien\+
 1. **[The Two Towers](https://bookshop.org/a/22449/9780547928203)**, J.R.R. Tolkien\+
 1. **[The Fellowship of the Ring](https://bookshop.org/a/22449/9780547928210)**, J.R.R. Tolkien\+
@@ -38,6 +39,10 @@ Books I especially loved are marked with an asterisk. Books that were re-reads a
 
 ### 2022
 
+1. **[A Caribbean Heiress in Paris](https://bookshop.org/a/22449/9781335639844)**, Adriana Herrera
+1. **[Cuba: An American History](https://bookshop.org/a/22449/9781501154560)**, Ada Ferrer
+1. **[Mexican Gothic](https://bookshop.org/a/22449/9780525620785)**, Silvia Moreno-Garcia
+1. **[I'm Glad My Mom Died](https://bookshop.org/a/22449/9781982185824)**, Jennette McCurdy
 1. **[Milk Blood Heat](https://bookshop.org/books/milk-blood-heat/9780802158154)**, Dantiel W Moniz
 1. **[Squad](https://bookshop.org/books/squad-9780062943156/9780062943149)**, Maggie Tokuda-Hall, Lisa Sterle
 1. **[Severance](https://bookshop.org/books/severance-9781250214997/9781250214997)**, Ling Ma
