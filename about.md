@@ -6,7 +6,7 @@ excerpt: Hi, I'm Jorge.
 comments: false
 ---
 
-Generalist software engineer. I mainly write F# these days.
+Generalist software engineer. I mainly write Python and TypeScript these days.
 
 **✨**
 
