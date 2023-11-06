@@ -15,6 +15,9 @@ This is a list of links that I find important, and often refer to.
 - **[Four Ways to Shoot Yourself in the Foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)**
 - **[Joins: 13 Ways](https://justinjaffray.com/joins-13-ways/)**
 
+## Architecure
+- **[Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)**
+
 ## Software Engineering
 
 - **[Write More Useless Software](https://ntietz.com/blog/write-more-useless-software/)**
@@ -22,6 +25,7 @@ This is a list of links that I find important, and often refer to.
 ## Text
 
 - **[Unicode](https://tonsky.me/blog/unicode/)**
+- **[Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)**
 
 ## Product Design
 
