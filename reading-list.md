@@ -8,7 +8,7 @@ comments: false
 
 I try to read a lot. This is an attempt to track that.
 
-Books I especially loved are marked with an asterisk. Books that were re-reads are marked with a plus sign.
+Books I especially loved are marked with an asterisk(*). Books that were re-reads are marked with a plus(+) sign.
 
 ## Currently Reading
 
