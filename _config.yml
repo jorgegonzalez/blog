@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Jorge Gonzalez # author name
   bio: >- # tell to the world
-    Full Stack Software Engineer.
+    Generalist Software Engineer.
   github: github.com/jorgegonzalez # general username
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
