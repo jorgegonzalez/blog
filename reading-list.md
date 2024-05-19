@@ -12,13 +12,17 @@ Books I especially loved are marked with an asterisk(*). Books that were re-read
 
 ## Currently Reading
 
-**Fiction**
+[//]: # (**Fiction**)
 
-- **[The Lady of the Lake](https://bookshop.org/a/22449/9780316457132)**, Andrzej Sapkowski
-- **[Son of Khyber](https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/)**, Keith Baker
-- **[Heretics of Dune](https://bookshop.org/a/22449/9780593098264)**, Frank Herbert
-- **[The Odyssey](https://bookshop.org/a/22449/9780393356250)**, Emily Wilson
-- **[Her Body and Other Parties: Stories](https://bookshop.org/a/22449/9781555977887)**, Carmen Maria Machado 
+[//]: # (- **[The Lady of the Lake]&#40;https://bookshop.org/a/22449/9780316457132&#41;**, Andrzej Sapkowski)
+
+[//]: # (- **[Son of Khyber]&#40;https://www.amazon.com/Son-Khyber-Thorn-Breland-Book/dp/0786952342/&#41;**, Keith Baker)
+
+[//]: # (- **[Heretics of Dune]&#40;https://bookshop.org/a/22449/9780593098264&#41;**, Frank Herbert)
+
+[//]: # (- **[The Odyssey]&#40;https://bookshop.org/a/22449/9780393356250&#41;**, Emily Wilson)
+
+[//]: # (- **[Her Body and Other Parties: Stories]&#40;https://bookshop.org/a/22449/9781555977887&#41;**, Carmen Maria Machado )
 
 **Software Engineering**
 
@@ -26,6 +30,9 @@ Books I especially loved are marked with an asterisk(*). Books that were re-read
 
 ### 2024
 
+1. **[This Is How You Lose the Time War](https://bookshop.org/a/22449/9781534430990)**, Amal El-Mohtar, Max Gladstone
+1. **[Dark Matter](https://bookshop.org/a/22449/9781101904244)**, Blake Crouch
+1. **[The Genius of Israel](https://bookshop.org/a/22449/9781797124568)**, Dan Senor, Saul Singer
 1. **[Start-up Nation](https://bookshop.org/a/22449/9780446541473)**, Dan Senor, Saul Singer
 1. **[Better Living Through Birding](https://bookshop.org/a/22449/9780593242384)**, Christian Cooper
 1. **[Convenience Store Woman](https://bookshop.org/a/22449/9780802129628)**, Sayaka Murata
